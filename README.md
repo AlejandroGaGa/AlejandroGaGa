@@ -14,7 +14,7 @@ Habilidades Clave
     Cuento con conocimientos en Javascript, c#, php y estoy aprendiendo a usar typescript en angular
     Experiencia en frameworks frontend como Angular, React y Next.js para crear experiencias de usuario excepcionales.
     Desarrollo de aplicaciones móviles utilizando React Native con Expo.
-    Diseño centrado en la experiencia utilizando herramientas como Tailwind CSS, Boostrap, TailwindCss, MaterialDesign.
+    Diseño centrado en la experiencia utilizando herramientas como Tailwind CSS, Boostrap, MaterialDesign.
     Creación de páginas web dinámicas y escalables, así como implementación de microservicios.
     Integración fluida de APIs de terceros para potenciar las funcionalidades de las aplicaciones.
     
