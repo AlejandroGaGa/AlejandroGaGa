@@ -1,46 +1,61 @@
+<div align="center">
+
 ### Bienvenido a mi GitHub 🛹
-Este es mi portafolio https://agg-portafolio.vercel.app/
 
+Soy ["Alejandro","Garcia","Gallardo"]! 👋
 
+Este es mi portafolio [https://agg-portafolio.vercel.app/](https://agg-portafolio.vercel.app/)
 
-¡Hola, soy ["Alejandro","Garcia","Gallardo"]! 👋
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlejandroGaGa&theme=dark&background=031758)
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador Fullstack con una amplia experiencia en el mundo del desarrollo web y móvil. Mi enfoque abarca desde la creación de atractivas interfaces de usuario hasta la implementación de robustos sistemas de backend.
-Habilidades Clave
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroGaGa&show_icons=true&locale=en&layout=compact&theme=nord&background=000000" alt="emmanuelcortes2" /></p>
 
-    Desarrollo Fullstack, abarcando tanto el frontend como el backend.
-    Integración de pasarelas de pago como Openpay y Conekta para transacciones seguras.
-    Generación de estados de cuenta y transacciones seguras con webhooks y microservicios utilizando PHP, Node.js y Express.
-    Cuento con conocimientos en Javascript, c#, php y estoy aprendiendo a usar typescript en angular
-    Experiencia en frameworks frontend como Angular, React y Next.js para crear experiencias de usuario excepcionales.
-    Desarrollo de aplicaciones móviles utilizando React Native con Expo.
-    Diseño centrado en la experiencia utilizando herramientas como Tailwind CSS, Boostrap, MaterialDesign.
-    Creación de páginas web dinámicas y escalables, así como implementación de microservicios.
-    Integración fluida de APIs de terceros para potenciar las funcionalidades de las aplicaciones.
-    
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado software developer con una amplia experiencia en el mundo del desarrollo web y móvil. Mi enfoque abarca desde la creación de atractivas interfaces de usuario hasta la implementación de robustos sistemas de backend.
 
+</div>
 
-También cuento con experiencia en la creación y configuración de servidores EC2 en Ubuntu. He trabajado en el montaje de aplicaciones tanto en el lado backend como frontend, implementando conexiones a balanceadores de carga y grupos de seguridad. Además, he llevado a cabo la asignación de dominios y subdominios utilizando certificados públicos emitidos por AWS para establecer conexiones seguras.
+<div align="center">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <!-- Enlace para Next.js -->
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+</div>
 
-Mi enfoque incluye no solo la creación de aplicaciones de alto rendimiento, sino también la construcción de una infraestructura confiable. Esto garantiza que las soluciones que desarrollo no solo sean funcionales, sino también seguras y escalables. Estoy comprometido/a en brindar soluciones integrales que cumplan con los más altos estándares de calidad y rendimiento.
+<div align="center">
+  <p>¡Espero tener la oportunidad de trabajar juntos y crear soluciones impactantes! 😄🚀</p>
+</div>
 
-
-Sobre Mí
-
-Soy un entusiasta de la tecnología que siempre busca aprender y enfrentar nuevos desafíos. Mi pasión por el desarrollo se combina con un compromiso constante con la calidad y la innovación. Me encanta colaborar en proyectos emocionantes y trabajar en equipo para lograr resultados excepcionales.
-
-Si estás buscando un colaborador Fullstack con experiencia en pasarelas de pago, generación de estados de cuenta y desarrollo de interfaces atractivas, ¡estoy aquí para ayudar! No dudes en contactarme si estás interesado en colaborar o tienes alguna pregunta.
-
-¡Espero tener la oportunidad de trabajar juntos y crear soluciones impactantes! 😄🚀
-
-
-![HTML Icon](https://img.icons8.com/color/96/000000/html-5.png)
-![HTML Icon](https://img.icons8.com/color/96/000000/css3.png)
-![HTML Icon](https://img.icons8.com/color/96/000000/javascript.png)
-![HTML Icon](https://img.icons8.com/color/96/000000/php.png)
-![HTML Icon](https://img.icons8.com/color/96/000000/nodejs.png)
-![HTML Icon](https://img.icons8.com/color/96/000000/react-native.png)
-![HTML Icon](https://img.icons8.com/color/96/000000/c-sharp-logo.png)
-![HTML Icon](https://img.icons8.com/color/96/000000/angularjs.png)
-![AWS Icon](https://img.icons8.com/color/96/000000/amazon-web-services.png)
-
+<div align="center">
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3 Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React Native Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" alt="C# Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/angularjs.png" alt="AngularJS Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS Icon"/>
+</div>
