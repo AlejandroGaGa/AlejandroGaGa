@@ -6,7 +6,7 @@ Soy ["Alejandro","Garcia","Gallardo"]! 👋
 
 Este es mi portafolio [https://agg-portafolio.vercel.app/](https://agg-portafolio.vercel.app/)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlejandroGaGa&theme=dark&background=031758)
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroGaGa&show_icons=true&locale=en&layout=compact&theme=nord&background=000000" alt="emmanuelcortes2" /></p>
 
